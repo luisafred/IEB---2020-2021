@@ -8,5 +8,5 @@ Interesting links:
 
 Now a link to Chapter I
 
-# [Chapter I](ChapterI.md)
+# [Chapter I](ChapterI)
 
