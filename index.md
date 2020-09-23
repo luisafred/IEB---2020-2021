@@ -5,4 +5,4 @@ Interesting links:
 [PIA Notebooks](https://github.com/PIA-Group/ScientIST-notebooks)
 
 Now a link to Chapter I
-# [Chapter I](ChapterI)
+# [Chapter I](ChapterI.md)
